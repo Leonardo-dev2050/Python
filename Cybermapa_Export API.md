@@ -1,5 +1,5 @@
 # Python
-Practicas
+# Requerimiento toma de los datos historicos desde la API y realiza el almacenamiento en un filesystem y luego la ingesta en el Servidor SQL de samidata.database.windows.net
 import http.client
 import json
 import pyodbc 
